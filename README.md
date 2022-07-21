@@ -1,3 +1,3 @@
 # Brendan Dill's Portfolio Website
 
-Visit here: https://brdxn.github.io/about
+Visit here: https://brdxn.github.io/
