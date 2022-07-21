@@ -11,3 +11,151 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#pic {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#piclay {
+  padding-top: 100px;
+  float: left;
+  padding-left: 150px;
+  
+}
+
+#name {
+  padding-left: 100px;
+}
+
+#info {
+  float: left;
+  padding-top: 190px;
+  padding-left: 200px;
+}
+
+#facts {
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+
+#contentlist1 {
+  padding: 45px;
+  list-style: none;
+  text-align: center;
+}
+
+#contentlist2 {
+  padding: 5px;
+  font-size: 18px;
+}
+
+#aheader {
+  text-align: left;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+#acontent {
+  text-align: left;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#button {
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+#download {
+  color:white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#resume {
+  padding-top: 15px;
+}
+
+#skills1 {
+  padding-top: 15px;
+}
+
+#skills2 {
+  padding-top: 5px;
+  padding-right: 5px;
+}
+
+#error {
+  padding: 120px;
+
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 10%;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+#git:hover {
+  -webkit-filter: brightness(120%);
+}
+
+#linkedin {
+  padding-top: 1.75px;
+  -webkit-filter: brightness(105%);
+}
+
+#linkedin:hover {
+  -webkit-filter: brightness(125%);
+}
+
+#header2 {
+  text-align: left;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+#project1:hover {
+  box-shadow: inset 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#project2:hover {
+  box-shadow: inset 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#project3:hover {
+  box-shadow: inset 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#project4:hover {
+  box-shadow: inset 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#project5:hover {
+  box-shadow: inset 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#project6:hover {
+  box-shadow: inset 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.card {
+  height: 100%;
+}
